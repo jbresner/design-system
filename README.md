@@ -7,4 +7,6 @@ List of design system components
 2. Alert
 3. Banner
 4. Breadcrumb
-5. Footer
+5. Button
+6. Button Group
+7. Footer
